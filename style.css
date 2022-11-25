@@ -1,0 +1,53 @@
+.main {
+
+    position: relative;
+    left: 80vh;
+    top: 25vh;
+
+}
+
+input {
+
+    width: 40vh;
+    height: 4vh;
+    border-color: black;
+    margin-top: 10px;
+
+}
+
+.btn {
+
+    color: black;
+    background-color: greenyellow;
+    border-color: aliceblue;
+    font-weight: bolder;
+    width: 15vh;
+    height: 5vh;
+    margin-left: 12vh;
+}
+
+.btn1 {
+
+    color: black;
+    background-color: greenyellow;
+    border-color: aliceblue;
+    font-weight: bolder;
+    width: 15vh;
+    height: 5vh;
+
+}
+
+input::placeholder {
+
+    font-weight: bolder;
+    font-style: italic;
+    color: black;
+
+}
+
+h1 {
+
+    margin-left: 12vh;
+
+
+}
